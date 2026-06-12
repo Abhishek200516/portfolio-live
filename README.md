@@ -1,8 +1,8 @@
 # Abhishek Portfolio
 
-Portfolio website: https://abhishek200516.github.io/abhishek-portfolio/
+Portfolio website: https://Abhishek200516.github.io/Portfolio/
 
-GitHub repository: https://github.com/Abhishek200516/abhishek-portfolio
+GitHub repository: https://github.com/Abhishek200516/Portfolio
 
 ## Run locally
 
